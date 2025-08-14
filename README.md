@@ -5,7 +5,7 @@ To increase the accuracy of my model I have used some interesting and mind boggl
 About Dataset,
 This dataset contains images of 18 Hollywood celebrities with 100 images of each celebrity. The people in this dataset are:
 
-Angelina Jolie
+Angelina Jolie\n
 Brad Pitt
 Denzel Washington
 Hugh Jackman
